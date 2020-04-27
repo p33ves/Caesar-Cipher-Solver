@@ -1,7 +1,7 @@
 # Caesar-Cipher-Solver
 Python code to solve Caesar Cipher word puzzles
 
-Runs using Python 3.8 
+Runs on Python 3.8 
 
 Utilizies ntlk.corpus words library to lookup for valid words
 
